@@ -14,7 +14,7 @@ We exclude certified defences because they can only provide certificates for the
 Also, the neural network architecture may vary between different papers. 
 The table is meant as an overview, to provide guidance for researchers and practitioners when navigating through defenses.
 It should be taken with a grain of salt. 
-The table's interpretation is in the hands of the beholder.
+The table's interpretation is in the eyes of the beholder.
 
 <table>
   <tr>
