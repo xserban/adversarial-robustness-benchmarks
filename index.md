@@ -33,6 +33,11 @@ The table's interpretation is in the hands of the beholder.
   </tr> 
   
    <tr>
+    <td>  Manifold Regularization for Adversarial Robustness</td> <td> - </td> <td> 8/255 </td>  <td> 90.91  </td> <td>  PGD-200 / 70.08% </td> <td>   -  </td> <td> - </td> <td> None  </td> <td> -  </td> <td> https://arxiv.org/abs/2003.04286 </td>
+  </tr> 
+  
+
+   <tr>
       <td>Theoretically Principled Trade-off between Robustness and Accuracys</td> <td> TRADES </td> <td> 8/255 </td>  <td> 84.92% </td> <td>  PGD-20 / 56.61% </td> <td>     - </td> <td>- </td> <td> High </td> <td> - </td> <td> https://arxiv.org/abs/1901.08573 </td> 
   </tr>
 
