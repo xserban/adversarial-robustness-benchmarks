@@ -32,6 +32,10 @@ The table's interpretation is in the hands of the beholder.
     <td>Fast is better than free: Revisiting adversarial training</td> <td> - </td> <td> 8/255 </td>  <td> 83.81%  </td> <td>  PGD-20 / 46.06% </td> <td>   -  </td> <td> - </td> <td> Medium  </td> <td> -  </td> <td> https://arxiv.org/abs/2001.03994 </td>
   </tr> 
   
+   <tr>
+      <td>Theoretically Principled Trade-off between Robustness and Accuracys</td> <td> TRADES </td> <td> 8/255 </td>  <td> 84.92% </td> <td>  PGD-20 / 56.61% </td> <td>     - </td> <td>- </td> <td> High </td> <td> - </td> <td> https://arxiv.org/abs/1901.08573 </td> 
+  </tr>
+
   <tr>
     <td>Towards Deep Learning Models Resistant to Adversarial Attacks</td> <td> PGD-7 </td> <td> 8/255 </td>  <td> 87.25%  </td> <td>  PGD-20 / 45.84% </td> <td> 59.87% </td> <td> PGD-20 22.76% </td> <td> High </td> <td> - </td> <td> https://arxiv.org/abs/1706.06083  </td> 
   </tr>
