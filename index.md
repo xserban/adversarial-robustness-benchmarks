@@ -25,24 +25,24 @@ The table's interpretation is in the eyes of the beholder.
   </tr>  
 
   <tr>
-   <td>Adversarial Training for Free!</td> <td> - </td> <td> 8/255 </td>  <td> 85.96%  </td> <td>  PGD-20 / 46.82% </td> <td>   62.13% </td> <td> PGD-20 25.88% </td> <td> Medium  </td> <td> -  </td> <td> https://arxiv.org/abs/1904.12843 </td>
+   <td>Adversarial Training for Free!</td> <td> - </td> <td> 8/255 </td>  <td> 85.96%  </td> <td>  PGD-20 / 46.82% </td> <td>   62.13% </td> <td> PGD-20 25.88% </td> <td> Medium  </td> <td> -  </td> <td> <a target="_blank">https://arxiv.org/abs/1904.12843 </a></td>
   </tr>
   
    <tr>
-    <td>Fast is better than free: Revisiting adversarial training</td> <td> - </td> <td> 8/255 </td>  <td> 83.81%  </td> <td>  PGD-20 / 46.06% </td> <td>   -  </td> <td> - </td> <td> Medium  </td> <td> -  </td> <td> https://arxiv.org/abs/2001.03994 </td>
+    <td>Fast is better than free: Revisiting adversarial training</td> <td> - </td> <td> 8/255 </td>  <td> 83.81%  </td> <td>  PGD-20 / 46.06% </td> <td>   -  </td> <td> - </td> <td> Medium  </td> <td> -  </td> <td> <a target="_blank">https://arxiv.org/abs/2001.03994</a> </td>
   </tr> 
   
    <tr>
-    <td>  Manifold Regularization for Adversarial Robustness</td> <td> - </td> <td> 8/255 </td>  <td> 90.91  </td> <td>  PGD-200 / 70.08% </td> <td>   -  </td> <td> - </td> <td> None  </td> <td> -  </td> <td> https://arxiv.org/abs/2003.04286 </td>
+    <td>  Manifold Regularization for Adversarial Robustness</td> <td> - </td> <td> 8/255 </td>  <td> 90.91  </td> <td>  PGD-200 / 70.08% </td> <td>   -  </td> <td> - </td> <td> None  </td> <td> -  </td> <td> <a target="_blank">https://arxiv.org/abs/2003.04286</a> </td>
   </tr> 
   
 
    <tr>
-      <td>Theoretically Principled Trade-off between Robustness and Accuracys</td> <td> TRADES </td> <td> 8/255 </td>  <td> 84.92% </td> <td>  PGD-20 / 56.61% </td> <td>     - </td> <td>- </td> <td> High </td> <td> - </td> <td> https://arxiv.org/abs/1901.08573 </td> 
+      <td>Theoretically Principled Trade-off between Robustness and Accuracys</td> <td> TRADES </td> <td> 8/255 </td>  <td> 84.92% </td> <td>  PGD-20 / 56.61% </td> <td>     - </td> <td>- </td> <td> High </td> <td> - </td> <td> <a target="_blank"https://arxiv.org/abs/1901.08573</a> </td> 
   </tr>
 
   <tr>
-    <td>Towards Deep Learning Models Resistant to Adversarial Attacks</td> <td> PGD-7 </td> <td> 8/255 </td>  <td> 87.25%  </td> <td>  PGD-20 / 45.84% </td> <td> 59.87% </td> <td> PGD-20 22.76% </td> <td> High </td> <td> - </td> <td> https://arxiv.org/abs/1706.06083  </td> 
+    <td>Towards Deep Learning Models Resistant to Adversarial Attacks</td> <td> PGD-7 </td> <td> 8/255 </td>  <td> 87.25%  </td> <td>  PGD-20 / 45.84% </td> <td> 59.87% </td> <td> PGD-20 22.76% </td> <td> High </td> <td> - </td> <td> <a target="_blank">https://arxiv.org/abs/1706.06083</a>  </td> 
   </tr>
   
 </table>
