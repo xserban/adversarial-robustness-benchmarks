@@ -38,7 +38,7 @@ The table's interpretation is in the eyes of the beholder.
   
   
    <tr>
-    <td>  Overfitting in adversarially robust deep learning </td> <td> - </td> <td> 8/255 </td>  <td> -  </td> <td>  PGD-10 / 53.01% </td> <td>   -  </td> <td> PGD-10 / 21,4 </td> <td> High  </td> <td> -  </td> <td> <a target="_blank" href="https://arxiv.org/abs/2003.04286">https://arxiv.org/abs/2002.11569</a> </td>
+    <td>  Overfitting in adversarially robust deep learning </td> <td> - </td> <td> 8/255 </td>  <td> -  </td> <td>  PGD-10 / 53.01% </td> <td>   -  </td> <td> PGD-10 / 21,4 </td> <td> High  </td> <td> -  </td> <td> <a target="_blank" href="https://arxiv.org/abs/2002.11569">https://arxiv.org/abs/2002.11569</a> </td>
   </tr> 
 
    <tr>
