@@ -29,7 +29,7 @@ The table's interpretation is in the eyes of the beholder.
   </tr>
   
    <tr>
-    <td>Fast is better than free: Revisiting adversarial training</td> <td> - </td> <td> 8/255 </td>  <td> 83.81%  </td> <td>  PGD-20 / 46.06% </td> <td>   -  </td> <td> - </td> <td> Medium  </td> <td> -  </td> <td> <a target="_blank" href="https://arxiv.org/abs/2001.03994">https://arxiv.org/abs/2001.03994</a> </td>
+    <td>Fast is better than free: Revisiting adversarial training</td> <td> - </td> <td> 8/255 </td>  <td> 83.81%  </td> <td>  PGD-50 / 46.06% </td> <td>   -  </td> <td> - </td> <td> Medium  </td> <td> -  </td> <td> <a target="_blank" href="https://arxiv.org/abs/2001.03994">https://arxiv.org/abs/2001.03994</a> </td>
   </tr> 
   
    <tr>
