@@ -1,4 +1,4 @@
-# adversarial-robustness-benchmarks
+# Adversarial Robustness Benchmarks
 
 Comparing adversarial defences has become a daunting task, with many defences reporting robustness improvements in spite of the fact that [they can easily be broken](https://arxiv.org/abs/2002.08347).
 
