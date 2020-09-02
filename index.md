@@ -42,7 +42,7 @@ The table's interpretation is in the eyes of the beholder.
   </tr> 
 
    <tr>
-      <td>Theoretically Principled Trade-off between Robustness and Accuracys</td> <td> TRADES </td> <td> 8/255 </td>  <td> 84.92% </td> <td>  PGD-20 / 56.61% </td> <td>     - </td> <td>- </td> <td> High </td> <td> - </td> <td> <a target="_blank" href="https://arxiv.org/abs/1901.08573">https://arxiv.org/abs/1901.08573</a> </td> 
+      <td>Theoretically Principled Trade-off between Robustness and Accuracy</td> <td> TRADES </td> <td> 8/255 </td>  <td> 84.92% </td> <td>  PGD-20 / 56.61% </td> <td>     - </td> <td>- </td> <td> High </td> <td> - </td> <td> <a target="_blank" href="https://arxiv.org/abs/1901.08573">https://arxiv.org/abs/1901.08573</a> </td> 
   </tr>
 
   <tr>
